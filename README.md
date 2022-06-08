@@ -1,8 +1,19 @@
 # loan_case_study of data analysis:
 
-We have loan.csv as customer's loan data. In this dataset we have three types of loan status (Fully paid, Charged off, Current)
 
-We have analysed risk factor such as which type of customer are defaulter and which are good in terms of taking loan
+Lending loans to ‘risky’ applicants is the largest source of financial loss
+(called credit loss). The credit loss is the amount of money lost by the lender 
+when the borrower refusesto pay or runs away with the money owed.  
+
+The main objective is to be able to identify these risky loan applicants, 
+then such loans can be reduced thereby cutting down the amount of credit loss. 
+Identification of such applicants using EDA is the aim of this case study.   
+
+Perform an analysis to understand the driving factors (or driver variables)
+behind loan default, i.e.the variables which are strong indicators of default.  
+The company can utilise this knowledge for its portfolio and risk assessment. 
+
+These are the steps we are following to data analysis
 
 Step 1: Data Cleaning
 
@@ -21,7 +32,6 @@ Step 3: Bivariate Analysis
 
     Plotted bivariate graph based on different-different column as per our requirement.
     Made function to plot based on Highest, Higher, Medium, Lower, Lowest.
-
 
 
 Contributors
