@@ -26,5 +26,4 @@ Step 3: Bivariate Analysis
 
 Contributors
 
-Mr. Saurabh Kr. Dubey
-Mr. Rohan Sen
+Mr. Saurabh Kr. Dubey, Mr. Rohan Sen
